@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauthamdevops" alt="gauthamdevops" /></a> </p>
 
-- 🔭 I’m currently working on **Deploying an Ent-to-End AWS Web Application**
+- 🔭 I’m currently looking job **Cloud Explorer, Cloud Engineer, DevOps Engineer Fresher, System Engineer**
 
 - 🌱 I’m currently learning **DevOps Tools**
 
