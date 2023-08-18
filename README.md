@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gautham</h1>
 <h3 align="center">👀 I’m interested in AWS Solution Architect, Cloud Engineer, DevOps Engineer</h3>
 
-<img align = "right" ald="coding" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauthamdevops&label=Profile%20views&color=0e75b6&style=flat" alt="gauthamdevops" /> </p>
 
